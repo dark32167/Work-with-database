@@ -1,0 +1,1 @@
+Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|PERSONS_DB.mdf;Integrated Security=True;Connect Timeout=30
